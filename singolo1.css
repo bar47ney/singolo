@@ -1,0 +1,102 @@
+body
+{
+  background-color:black;
+  color: white;
+  width: 1020px;
+  margin:0px auto;
+}
+
+header
+{
+  width: 1020px;
+  height: 89px;
+  background-color: #2d303a;
+  color:white;
+}
+
+.underline
+{
+  width: 1020px;
+  height: 6px;
+  background-color: #323746;
+}
+
+@font-face
+{
+  font-family: Lato-Semibold;
+  src: url('assets/lato/Lato-Semibold.ttf');
+}
+
+@font-face
+{
+  font-family: Lato-Medium;
+	src: url('assets/lato/Lato-Medium.ttf');
+}
+
+@font-face
+{
+  font-family: Lato-Thin;
+	src: url('assets/lato/Lato-Light.ttf');
+}
+
+h1
+{
+  font-size: 25px;
+  line-height: 6px;
+  font-family: "Lato-Semibold";
+  font-weight: 700;
+  text-align: left;
+  padding-top: 34px;
+  padding-left: 40px;
+}
+
+.nav
+{
+  padding-left: 606px;
+  font-size: 12px;
+  line-height: 6px;
+  font-family: "Lato-Semibold";
+  font-weight: 700;
+}
+
+.slider
+{
+  height: 600px;
+  background-color: #ca4549;
+}
+
+.our-services
+{
+  height: 495px;
+  background-color: #f2f2f2;
+  font-size: 30px;
+  line-height: 18px;
+  color: #666d89;
+  font-family: "Lato-Medium";
+  font-weight: 900;
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 66px;
+}
+
+.fusce
+{
+  width: 940px;
+  height: 57px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #767e9e;
+  font-family: "Lato-Thin";
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.underline-2
+{
+  width: 1020px;
+  height: 6px;
+  background-color: #ffffff;
+}
+
+
